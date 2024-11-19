@@ -1,0 +1,7 @@
+.vs/
+*.o
+benchmark-blas
+benchmark-blislab
+benchmark-naive
+gmon.out
+profile.txt
